@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         SBF-fixer
 // @namespace    https://code.enriz.eu
-// @version      0.1.2
+// @version      0.1.3
 // @description  Clean up other peoples mess
 // @author       Erik Einarsson
 // @require      https://code.jquery.com/jquery-2.1.4.min.js
