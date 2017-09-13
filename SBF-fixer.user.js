@@ -1,11 +1,12 @@
 // ==UserScript==
 // @name         SBF-fixer
 // @namespace    https://code.enriz.eu
-// @version      0.1
+// @version      0.1.2
 // @description  Clean up other peoples mess
 // @author       Erik Einarsson
 // @require      https://code.jquery.com/jquery-2.1.4.min.js
-// @include      http://www.svenskbridge.se/tvl/*/info
+// @match        http://www.svenskbridge.se/tvl/*/info
+// @downloadURL  https://github.com/zirne/SBF-fixer.user.js/blob/master/SBF-fixer.user.js
 // @grant        none
 // ==/UserScript==
 
